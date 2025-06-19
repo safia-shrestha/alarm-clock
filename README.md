@@ -18,4 +18,4 @@ A Python alarm clock that plays sound at specified times.
 ```bash
 git clone https://github.com/safia-shrestha/alarm-clock.git
 cd alarm-clock
-pip install -r requirements.txt  # Create this file first!
+
