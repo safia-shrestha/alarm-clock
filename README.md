@@ -10,9 +10,12 @@ A Python alarm clock that plays sound at specified times.
 - Audio notification
 - Simple command-line interface
 
-## Requirements
+## Python Alarm Clock  
+Run with: `python alarm_clock.py`  
+Requires: [alarm_sound.mp3] in same directory
 - Python 3.x
 - pygame
+
 
 ## Installation
 ```bash
