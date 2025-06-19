@@ -1,4 +1,4 @@
-# Alarm Clock Project
+s# Alarm Clock Project
 
 A Python alarm clock that plays sound at specified times.
 
@@ -16,6 +16,7 @@ A Python alarm clock that plays sound at specified times.
 
 ## Installation
 ```bash
-git clone https://github.com/safia-shrestha/alarm-clock.git
+git clone https://github.com/safia-shrestha/alarm-clock
 cd alarm-clock
+pip install -r requirements.txt
 
